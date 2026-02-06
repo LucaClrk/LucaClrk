@@ -2,7 +2,7 @@
   <h1>Hi, I'm Luca</h1>
   </div>
   <div align="center"><h3>A passionate Full Stack Developer from Belgium</h3></div>
-  
+  <br>
   <h3>Skills</h3>
   <div class="logo-container">
     <img src="images/c-1.svg" width="100" height="75" alt="C" class="tech-logo">
