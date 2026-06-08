@@ -21,4 +21,6 @@
     <img src="/images/wireshark.svg" width="100" height="75" alt="Wireshark" class="tech-logo">
     <img src="/images/vmware-7.svg" width="100" height="75" alt="WMWare" class="tech-logo">
     <img src="/images/azure-2.svg" width="100" height="75" alt="Azure" class="tech-logo">
+    <img src="/images/gwt.png" width="100" height="75" alt="GWT" class="tech-logo">
+    <img src="/images/spring-boot.png" width="100" height="75" alt="Spring Boot" class="tech-logo">
   </div>
