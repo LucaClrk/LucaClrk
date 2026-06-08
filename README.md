@@ -2,6 +2,14 @@
   <img src="https://img.shields.io/badge/Years%20on%20GitHub-5-4493F8?style=flat-square" alt="Years Badge" />
 </div>
 
+<!---<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=LucaClrk&theme=tokyonight&column=1&title=AccountAge" alt="Years on GitHub" />
+</div>
+-->
+
+  <img src="images/coding.gif">
+
+
 <div align="center"><h3>A passionate Full Stack Developer from Belgium</h3></div>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+I'm+Luca!+👋;" />
@@ -30,12 +38,15 @@
 <br>
 <div align="center">
   <!-- Unified Core GitHub Stats -->
-  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LucaClrk&theme=transparent&count_private=true&show_icons=true&rank_icon=github" alt="LucaClrk's GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LucaClrk&theme=dark&count_private=true&show_icons=true&rank_icon=github" alt="LucaClrk's GitHub Stats" />
+  
   <!-- Unified Streak Stats -->
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=LucaClrk&theme=transparent&count_private=true&border_radius=10" alt="LucaClrk's Streak Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=LucaClrk&theme=dark&count_private=true&border_radius=10" alt="LucaClrk's Streak Stats" />
+  
   <br><br>
+  
   <!-- Unified Most Used Languages -->
-  <img width="60%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=LucaClrk&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true" alt="LucaClrk's Most Used Languages" />
+  <img width="60%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=LucaClrk&theme=dark&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true" alt="LucaClrk's Most Used Languages" />
 </div>
 
 <h3>Skills</h3>
