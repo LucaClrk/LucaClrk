@@ -39,7 +39,7 @@
 * **Stack:** Python, HTML, JavaScript, Flask, Ginja, PostgreSQL, Docker, Jenkins
 * **Key Feature:** A fully working application build from zero
 
-### 🌐 [Music Light Tile](https://github.com/vives-project-xp/MusicLightTiles)
+### 🎹 [Music Light Tile](https://github.com/vives-project-xp/MusicLightTiles)
 *A tile that lights up and plays sound when stood upon. From the 3D design to support an 80kg person to the MQTT broker to control the tile through a server. All is explained in the GitHub repository.*
 * **Stack:** Python, C++
 * **Key Feature:** The combination of software and hardware
