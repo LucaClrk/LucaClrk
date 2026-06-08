@@ -34,14 +34,15 @@
 
 ## 🚀 Featured Projects
 
-### 💻 [Project Name 1](https://github.com/LucaClrk/your-repo-link)
-*A brief 1-sentence description of what this app does and who it's for.*
-* **Stack:** Java Spring Boot, PostgreSQL, Docker
-* **Key Feature:** Implemented OAuth2 authentication and optimized database queries by 40%.
+### 💻 [Calibration Application](https://lucaclrk.github.io/projects/calibration-application/)
+*The calibration application is an app I made for Advionics NV. This application is a full stack program using PostgreSQL as a database, Python in the backend and mainly HTML for the front-end.*
+* **Stack:** Python, HTML, JavaScript, Flask, Ginja, PostgreSQL, Docker, Jenkins
+* **Key Feature:** A fully working application build from zero
 
-### 🌐 [Project Name 2](https://github.com/LucaClrk/your-repo-link)
-*A brief description of your frontend/fullstack or embedded STM32 project.*
-* **Stack:** Python, Flask, Jinja, Azure
+### 🌐 [Music Light Tile](https://github.com/vives-project-xp/MusicLightTiles)
+*A tile that lights up and plays sound when stood upon. From the 3D design to support an 80kg person to the MQTT broker to control the tile through a server. All is explained in the GitHub repository.*
+* **Stack:** Python, C++
+* **Key Feature:** The combination of software and hardware
 
 ## ⚡️ Stats
 
