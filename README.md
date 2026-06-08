@@ -1,13 +1,43 @@
 <div align="center"> 
-  <p>Visitor count</p>
-  ![Visitor Count](https://profile-counter.glitch.me/{LucaClrk}/count.svg)
+  <p>Years of Service</p>
+  [![Years Badge](https://badges.pufler.dev/years/LucaClrk)](https://badges.pufler.dev)
 </div>
 
-<div align="center">
-<h1>Hi, I'm Luca</h1>
-</div>
 <div align="center"><h3>A passionate Full Stack Developer from Belgium</h3></div>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+I'm+Luca!+👋;" />
+</h1>
+<h4>I'm a passionate Full Stack Developer from Belgium 🇧🇪 who turns caffeine into clean code.I love bringing ideas to life through code and jumping into projects to help others build awesome things! 🚀</h4>
+
+- 🌱 I’m currently learning **[System Design](https://blog.bytebytego.com/p/free-system-design-pdf-158-pages)**
+- 💬 Ask me about **Java, PostGreSQL...or anything [here](https://github.com/{LucaClrk}/{LucaClrk}/issues)**
+
 <br>
+
+<div align="center">
+  <a href="lucadeclerck@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/luca-de-clerck-338207337" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="[https://lucaclrk.github.io/](https://lucaclrk.github.io/)" target="_blank">
+    <img src="https://img.shields.io/badge/portfolio-brightgreen" target="_blank" />
+  </a>
+</div>
+
+## ⚡️ Stats
+
+<br>
+
+<div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=LucaClrk&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="LucaClrk's GitHub Stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=LucaClrk&theme=transparent&count_private=true&border_radius=10&locale=en" alt="LucaClrk's" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=LucaClrk&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="LucaClrk's Most Used Languages" />
+</div>
+
+<hr>
+
 <h3>Skills</h3>
 <div class="logo-container">
   <img src="images/c-1.svg" width="100" height="75" alt="C" class="tech-logo">
