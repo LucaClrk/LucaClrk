@@ -10,7 +10,6 @@
   <img src="images/coding.gif">
 
 
-<div align="center"><h3>A passionate Full Stack Developer from Belgium</h3></div>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+I'm+Luca!+👋;" />
 </h1>
@@ -33,6 +32,17 @@
   </a>
 </div>
 
+## 🚀 Featured Projects
+
+### 💻 [Project Name 1](https://github.com/LucaClrk/your-repo-link)
+*A brief 1-sentence description of what this app does and who it's for.*
+* **Stack:** Java Spring Boot, PostgreSQL, Docker
+* **Key Feature:** Implemented OAuth2 authentication and optimized database queries by 40%.
+
+### 🌐 [Project Name 2](https://github.com/LucaClrk/your-repo-link)
+*A brief description of your frontend/fullstack or embedded STM32 project.*
+* **Stack:** Python, Flask, Jinja, Azure
+
 ## ⚡️ Stats
 
 <br>
@@ -49,27 +59,13 @@
   <img width="60%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=LucaClrk&theme=dark&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true" alt="LucaClrk's Most Used Languages" />
 </div>
 
-<h3>Skills</h3>
-<div class="logo-container">
-  <img src="images/c-1.svg" width="100" height="75" alt="C" class="tech-logo">
-  <img src="images/python-5.svg" width="100" height="75" alt="Python" class="tech-logo">
-  <img src="images/c--4.svg" width="100" height="75" alt="C#" class="tech-logo">
-  <img src="images/java-14.svg" width="100" height="75" alt="Java" class="tech-logo">
-  <img src="images/html-1.svg" width="100" height="75" alt="HTML" class="tech-logo">
-  <img src="images/javascript-1.svg" width="100" height="75" alt="JavaScript" class="tech-logo">
-  <img src="images/stm32-logo.svg" width="100" height="75" alt="STM32" class="tech-logo">
-  <img src="images/css-3.svg" width="100" height="75" alt="CSS" class="tech-logo">
-  <img src="images/postgresql-inc.svg" width="100" height="75" alt="PostgreSQL" class="tech-logo">
-  <img src="images/flask.svg" width="100" height="75" alt="Flask" class="tech-logo">
-  <img src="images/jinja-logo.svg" width="100" height="75" alt="Jinja" class="tech-logo">
-  <img src="images/docker-4.svg" width="100" height="75" alt="Docker" class="tech-logo">
-  <img src="images/git-icon.svg" width="100" height="75" alt="Git" class="tech-logo">
-  <img src="images/wireshark.svg" width="100" height="75" alt="Wireshark" class="tech-logo">
-  <img src="images/vmware-7.svg" width="100" height="75" alt="WMWare" class="tech-logo">
-  <img src="images/azure-2.svg" width="100" height="75" alt="Azure" class="tech-logo">
-  <img src="images/gwt.png" width="100" height="75" alt="GWT" class="tech-logo">
-  <img src="images/spring-boot.png" width="100" height="75" alt="Spring Boot" class="tech-logo">
-</div>
+### 🛠️ Tech Stack & Tools
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages & Backend** | <img src="images/java-14.svg" width="45" height="45" alt="Java"> <img src="images/c--4.svg" width="45" height="45" alt="C#"> <img src="images/python-5.svg" width="45" height="45" alt="Python"> <img src="images/c-1.svg" width="45" height="45" alt="C"> <img src="images/postgresql-inc.svg" width="45" height="45" alt="PostgreSQL"> |
+| **Frameworks & Frontend** | <img src="images/spring-boot.png" width="45" height="45" alt="Spring Boot"> <img src="images/flask.svg" width="45" height="45" alt="Flask"> <img src="images/jinja-logo.svg" width="45" height="45" alt="Jinja"> <img src="images/gwt.png" width="45" height="45" alt="GWT"> <img src="images/javascript-1.svg" width="45" height="45" alt="JavaScript"> <img src="images/html-1.svg" width="45" height="45" alt="HTML"> <img src="images/css-3.svg" width="45" height="45" alt="CSS"> |
+| **DevOps & Tools** | <img src="images/docker-4.svg" width="45" height="45" alt="Docker"> <img src="images/azure-2.svg" width="45" height="45" alt="Azure"> <img src="images/git-icon.svg" width="45" height="45" alt="Git"> <img src="images/wireshark.svg" width="45" height="45" alt="Wireshark"> <img src="images/vmware-7.svg" width="45" height="45" alt="VMware"> <img src="images/stm32-logo.svg" width="45" height="45" alt="STM32"> |
 
 ## 🐍 My Contributions
 
