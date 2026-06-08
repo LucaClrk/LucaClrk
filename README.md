@@ -44,6 +44,16 @@
 * **Stack:** Python, C++
 * **Key Feature:** The combination of software and hardware
 
+### 🏋️ [Fitness Tracker](https://github.com/LucaClrk/lifestyle-tracker)
+*A simple web application that helps me maintain my health. ON HOLD RIGHT NOW ⚠️*
+* **Stack:** Java, HTML, Spring Boot
+* **Key Feature:** Making it easier to maintain health
+
+### ⌨️ [Typing Player](https://github.com/LucaClrk/typeplayer)
+*A typing game I am developing. ON HOLD RIGHT NOW ⚠️*
+* **Stack:** JavaScript, CSS, HTML, TypeScript
+* **Key Feature:** Interactive way to improve your typing skills
+
 ## ⚡️ Stats
 
 <br>
