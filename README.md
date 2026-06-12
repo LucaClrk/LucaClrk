@@ -45,9 +45,9 @@
 * **Key Feature:** The combination of software and hardware
 
 ### 🏋️ [Fitness Tracker](https://github.com/LucaClrk/lifestyle-tracker)
-*A simple web application that helps me maintain my health. ON HOLD RIGHT NOW ⚠️*
-* **Stack:** Java, HTML, Spring Boot
-* **Key Feature:** Making it easier to maintain health
+*A simple web application that helps me maintain my health. You can sync your Garmin data, schedule trainings, add habits...*
+* **Stack:** Java, HTML, Spring Boot, PostGreSQL
+* **Key Feature:** You can sync your Garmin data
 
 ### ⌨️ [Typing Player](https://github.com/LucaClrk/typeplayer)
 *A typing game I am developing. ON HOLD RIGHT NOW ⚠️*
