@@ -58,17 +58,13 @@
 
 <br>
 <div align="center">
-  <!-- Unified Core GitHub Stats -->
-  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LucaClrk&theme=dark&count_private=true&show_icons=true&rank_icon=github" alt="LucaClrk's GitHub Stats" />
-  
+  <img width="48%" src="https://github-stats-extended.vercel.app/api?username=LucaClrk&rank_icon=github&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=dark_github" alt="LucaClrk's Github Stats" />
+
+  <br>
   <!-- Unified Streak Stats -->
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=LucaClrk&theme=dark&count_private=true&border_radius=10" alt="LucaClrk's Streak Stats" />
-  
-  <br><br>
-  
-  <!-- Unified Most Used Languages -->
-  <img width="60%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=LucaClrk&theme=dark&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true" alt="LucaClrk's Most Used Languages" />
 </div>
+<br>
 
 ### 🛠️ Tech Stack & Tools
 
