@@ -55,18 +55,17 @@
 * **Key Feature:** Interactive way to improve your typing skills
 
 ## My Productivity Flow
-The moment I started getting into computers I've always liked getting into nerdy stuff. Setting up configs for my Neovim, Emacs, Hyprland and so on. You can find all those in my [Dotfiles](http
-  * s://github.com/LucaClrk/dotfiles) by the way.
+The moment I started getting into computers I've always liked getting into nerdy stuff. Setting up configs for my Neovim, Emacs, Hyprland and so on. You can find all those in my [dotfiles](https://github.com/LucaClrk/dotfiles) by the way.
 
-## Emacs
+### Emacs
 <p>Emacs is the main tool I use for my productivity flow. I get all my needed tools from here. I can access my terminal, calendar, mail, projects... from my emacs setup. 
 Having all these things in one place really make it easy for me to work without context switching.</p>
 
-## Neovim
+### Neovim
 <p>This one isn't a big deal, but it still has a huge impact on how I work. Even though it takes some time to get used too, once you get used to it there's no way you're letting it go.</p>
 <p>Using Neovim to edit text is amazing. I use it in Emacs, Intellij, terminal... I use it for all file editing and it is so much smoother</p>
 
-## Tiling manager
+### Tiling manager
 <p>As last I will talk about tiling managers. On my work laptop I use <i>Aerospace</i> and on my personal laptop <i>Hyprland</i>. 
 <p>Since I've started using tiling managers my workflow has getting much faster and smoother. Having keybinds for all your important application and opening them in specific workspaces</p>
 
