@@ -50,8 +50,8 @@
 * **Key Feature:** You can sync your Garmin data
 
 ### ⌨️ [Typing Player](https://github.com/LucaClrk/typeplayer)
-*A typing game I am developing. ON HOLD RIGHT NOW ⚠️*
-* **Stack:** JavaScript, CSS, HTML, TypeScript
+*A simple typing game.*
+* **Stack:**HTML, CSS and JavaScript 
 * **Key Feature:** Interactive way to improve your typing skills
 
 ## My Productivity Flow
