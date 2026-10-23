@@ -55,8 +55,7 @@
 * **Key Feature:** Interactive way to improve your typing skills
 
 ## My Productivity Flow
-The moment I started getting into computers I've always liked getting into nerdy stuff. Setting up configs for my Neovim, Emacs, Hyprland and so on. You can find all those in my [Dotfiles](http
-  * s://github.com/LucaClrk/dotfiles) by the way.
+The moment I started getting into computers I've always liked getting into nerdy stuff. Setting up configs for my Neovim, Emacs, Hyprland and so on. You can find all those in my [dotfiles](https://github.com/LucaClrk/dotfiles) by the way.
 
 ### Emacs
 <p>Emacs is the main tool I use for my productivity flow. I get all my needed tools from here. I can access my terminal, calendar, mail, projects... from my emacs setup. 
