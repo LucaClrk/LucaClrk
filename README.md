@@ -15,8 +15,8 @@
 </h1>
 <h4>I'm a passionate Full Stack Developer from Belgium 🇧🇪 who turns caffeine into clean code. I love bringing ideas to life through code and jumping into projects to help others build awesome things! 🚀</h4>
 
-- 🌱 I’m currently learning **[Java Spring Boot](https://spring.io/projects/spring-boot)**
-- 💬 Ask me about **Java, PostGreSQL...or anything [here](https://github.com/LucaClrk/LucaClrk/issues)**
+- I’m currently learning **[Java Spring Boot](https://spring.io/projects/spring-boot)**
+- Ask me about **Java, PostGreSQL...or anything [here](https://github.com/LucaClrk/LucaClrk/issues)**
 
 <br>
 
@@ -32,24 +32,24 @@
   </a>
 </div>
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 💻 [Calibration Application](https://lucaclrk.github.io/projects/calibration-application/)
+### [Calibration Application](https://lucaclrk.github.io/projects/calibration-application/)
 *The calibration application is an app I made for Advionics NV. This application is a full stack program using PostgreSQL as a database, Python in the backend and mainly HTML for the front-end.*
 * **Stack:** Python, HTML, JavaScript, Flask, Ginja, PostgreSQL, Docker, Jenkins
 * **Key Feature:** A fully working application build from zero
 
-### 🎹 [Music Light Tile](https://github.com/vives-project-xp/MusicLightTiles)
+### [Music Light Tile](https://github.com/vives-project-xp/MusicLightTiles)
 *A tile that lights up and plays sound when stood upon. From the 3D design to support an 80kg person to the MQTT broker to control the tile through a server. All is explained in the GitHub repository.*
 * **Stack:** Python, C++
 * **Key Feature:** The combination of software and hardware
 
-### 🏋️ [Fitness Tracker](https://github.com/LucaClrk/lifestyle-tracker)
+### [Fitness Tracker](https://github.com/LucaClrk/lifestyle-tracker)
 *A simple web application that helps me maintain my health. You can sync your Garmin data, schedule trainings, add habits...*
 * **Stack:** Java, HTML, Spring Boot, PostGreSQL
 * **Key Feature:** You can sync your Garmin data
 
-### ⌨️ [Typing Player](https://github.com/LucaClrk/typeplayer)
+### [Typing Player](https://github.com/LucaClrk/typeplayer)
 *A simple typing game.*
 * **Stack:**HTML, CSS and JavaScript 
 * **Key Feature:** Interactive way to improve your typing skills
@@ -69,7 +69,7 @@ Having all these things in one place really make it easy for me to work without 
 <p>As last I will talk about tiling managers. On my work laptop I use <i>Aerospace</i> and on my personal laptop <i>Hyprland</i>. 
 <p>Since I've started using tiling managers my workflow has getting much faster and smoother. Having keybinds for all your important application and opening them in specific workspaces</p>
 
-## ⚡️ Stats
+## Stats
 
 <br>
 <div align="center">
@@ -81,7 +81,7 @@ Having all these things in one place really make it easy for me to work without 
 </div>
 <br>
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 | Category | Technologies |
 | :--- | :--- |
@@ -89,7 +89,7 @@ Having all these things in one place really make it easy for me to work without 
 | **Frameworks & Frontend** | <img src="images/spring-boot.png" width="45" height="45" alt="Spring Boot"> <img src="images/flask.svg" width="45" height="45" alt="Flask"> <img src="images/jinja-logo.svg" width="45" height="45" alt="Jinja"> <img src="images/gwt.png" width="45" height="45" alt="GWT"> <img src="images/javascript-1.svg" width="45" height="45" alt="JavaScript"> <img src="images/html-1.svg" width="45" height="45" alt="HTML"> <img src="images/css-3.svg" width="45" height="45" alt="CSS"> |
 | **DevOps & Tools** | <img src="images/docker-4.svg" width="45" height="45" alt="Docker"> <img src="images/azure-2.svg" width="45" height="45" alt="Azure"> <img src="images/git-icon.svg" width="45" height="45" alt="Git"> <img src="images/wireshark.svg" width="45" height="45" alt="Wireshark"> <img src="images/vmware-7.svg" width="45" height="45" alt="VMware"> <img src="images/stm32-logo.svg" width="45" height="45" alt="STM32"> |
 
-## 🐍 My Contributions
+## My Contributions
 
 <div align="center">
   <picture>
