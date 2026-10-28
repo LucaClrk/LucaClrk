@@ -13,7 +13,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+I'm+Luca!+👋;" />
 </h1>
-<h4>I'm a passionate Full Stack Developer from Belgium 🇧🇪 who turns caffeine into clean code. I love bringing ideas to life through code and jumping into projects to help others build awesome things! 🚀</h4>
+<h4>I'm a passionate Full Stack Developer from Belgium 🇧🇪 who turns caffeine into clean code. I love bringing ideas to life through code and jumping into projects to help others build awesome things!</h4>
 
 - I’m currently learning **[Java Spring Boot](https://spring.io/projects/spring-boot)**
 - Ask me about **Java, PostGreSQL...or anything [here](https://github.com/LucaClrk/LucaClrk/issues)**
