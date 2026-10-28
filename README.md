@@ -38,6 +38,7 @@
 *The calibration application is an app I made for Advionics NV. This application is a full stack program using PostgreSQL as a database, Python in the backend and mainly HTML for the front-end.*
 * **Stack:** Python, HTML, JavaScript, Flask, Ginja, PostgreSQL, Docker, Jenkins
 * **Key Feature:** A fully working application build from zero
+* Be aware: The thesis is in Dutch
 
 ### [Music Light Tile](https://github.com/vives-project-xp/MusicLightTiles)
 *A tile that lights up and plays sound when stood upon. From the 3D design to support an 80kg person to the MQTT broker to control the tile through a server. All is explained in the GitHub repository.*
